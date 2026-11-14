@@ -1,0 +1,1 @@
+This feature demonstrates gittuf's two-person approval policy.
